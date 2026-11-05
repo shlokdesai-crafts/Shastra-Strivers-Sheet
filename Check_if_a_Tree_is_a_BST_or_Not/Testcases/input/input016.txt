@@ -1,0 +1,1 @@
+240 290 372 -358 -62 271 386 -440 -135 -103 59 267 330 382 394 null null null -134 null null null 199 null null null 332 null null null 405

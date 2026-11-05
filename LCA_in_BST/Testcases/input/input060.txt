@@ -1,0 +1,2 @@
+-207 -768 688 -863 -618 39 799 -939 -809 -708 -599 -108 555 770 888 null null null null null null null -237 null null null 613 null null null 891
+888 -708

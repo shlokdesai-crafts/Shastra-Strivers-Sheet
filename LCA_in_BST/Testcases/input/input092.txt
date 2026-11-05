@@ -1,0 +1,2 @@
+197 -428 650 -495 -223 464 733 -603 -486 -280 45 408 478 690 861 null null null -472 null null null 96 null null null 590 null null null 957
+957 -223

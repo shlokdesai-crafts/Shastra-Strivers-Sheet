@@ -1,0 +1,2 @@
+48 -403 536 -858 -158 253 728 -905 -696 -302 -77 97 329 617 868 -926 -885 -845 -680 -363 -223 -134 12 76 204 268 332 560 653 749 885 null null null -884 null null null -488 null null null -165 null -123 null 46 null null null 252 null 311 null 498 null null null 701 null 839 null 941
+97 -845

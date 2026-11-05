@@ -1,0 +1,2 @@
+211 -236 540 -955 45 450 878 -991 -478 -42 65 342 493 569 930 null null null -412 null null null 80 null null null 499 null 861 null 932
+65 211

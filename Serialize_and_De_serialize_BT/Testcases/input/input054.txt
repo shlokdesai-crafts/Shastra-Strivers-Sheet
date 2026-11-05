@@ -1,0 +1,1 @@
+83 114 -87 410 500 -55 -92 348 477 -421 262 192 250 8 -305 125 42 342 -476 169 30 473 106 -44 -135 476 -419 -301 468 -86 428 null null null -57 null null null -300 null null null -216 null -401 null -427 null null null 286 null null null -484 null null null -491 null 359 null 334

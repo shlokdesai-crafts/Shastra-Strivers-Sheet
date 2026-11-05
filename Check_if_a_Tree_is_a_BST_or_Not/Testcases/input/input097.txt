@@ -1,0 +1,1 @@
+10 -135 239 -358 -5 130 319 -402 -248 -89 -3 37 146 289 327 null null null null null null null null null null null null null null null 422

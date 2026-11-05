@@ -1,0 +1,3 @@
+0 434 -433 -104 -438 -263 333 null null null null null -316 -157 -393 408 -350 -10 null null null 169 null -29 null null 323 183 -49 null null 54 null -434 null 57
+-438
+100

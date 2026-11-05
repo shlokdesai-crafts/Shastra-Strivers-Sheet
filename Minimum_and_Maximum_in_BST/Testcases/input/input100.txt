@@ -1,0 +1,1 @@
+101 -205 463 -865 -14 263 657 -922 -671 -172 22 205 347 513 766 -926 -875 -702 -603 -180 -166 7 66 193 234 273 429 477 596 672 925 null null null -867 null null null -480 null null null -47 null null null 82 null null null 247 null null null 448 null null null 645 null 714 null 960

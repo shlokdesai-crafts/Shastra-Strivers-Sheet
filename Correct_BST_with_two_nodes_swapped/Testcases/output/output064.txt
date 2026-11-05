@@ -1,0 +1,1 @@
+470 200 640 70 318 555 939 23 133 251 357 501 633 803 969 18 37 79 194 221 296 335 385 492 502 630 634 649 902 949 982 null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null null 996

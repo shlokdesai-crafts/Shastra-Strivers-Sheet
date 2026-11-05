@@ -1,0 +1,2 @@
+0 31 477 289 331 -95 -352 286 -386 null null 247 70 -251 null null 223 null -43 null 497 449 479 null null -411 null -303 null null null null -188 null null null -193 -337 null null null 266
+-411 -43

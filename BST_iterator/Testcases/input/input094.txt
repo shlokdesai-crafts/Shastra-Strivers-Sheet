@@ -1,0 +1,1 @@
+20 -95 244 -323 -59 150 328 -434 -236 -89 -6 71 194 261 417 -500 -325 -237 -208 -94 -86 -55 14 69 146 191 204 251 274 406 452 null null null null null null null -119 null null null -71 null null null 19 null null null null null null null 207 null null null 288 null null null 492

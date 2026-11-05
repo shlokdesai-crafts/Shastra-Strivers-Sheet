@@ -1,0 +1,2 @@
+-31 -802 143 -825 -384 86 607 null null null -333 null null null 837
+86 143

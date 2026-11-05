@@ -1,0 +1,2 @@
+96 -480 636 -627 -297 424 900 -959 -605 -364 -92 296 464 802 955 -1000 -916 -606 -601 -382 -335 -251 -33 194 343 451 492 789 818 904 973 null null null -894 null null null -565 null null null -301 null null null 86 null null null 387 null null null 514 null null null 871 null 930 null 994
+288

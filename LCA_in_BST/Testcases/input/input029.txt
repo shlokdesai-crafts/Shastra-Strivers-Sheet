@@ -1,0 +1,2 @@
+159 -384 747 -951 -118 584 820 -959 -568 -225 -11 486 605 811 971 null null null null null null null 34 null null null null null null null 981
+-568 -951

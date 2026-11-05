@@ -1,0 +1,1 @@
+367 68 -406 215 298 -105 412 34 488 281 21 308 -311 -483 -480 169 379 -242 -21 -297 -193 3 261 -95 248 430 375 -303 -385 -119 -306 null null null 27 null null null -448 null null null -202 null -200 null -174 null null null 157 null -471 null 217 null null null -124 null 167 null 118

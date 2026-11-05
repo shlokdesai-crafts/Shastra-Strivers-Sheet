@@ -1,0 +1,1 @@
+-175 -687 395 -808 -421 254 807 -894 -730 -663 -323 200 312 666 938 -929 -832 -731 -702 -671 -644 -392 -215 66 241 304 326 598 774 887 969 null null null null null null null null null null null null null null null -190 null null null null null null null 382 null null null null null null null 970

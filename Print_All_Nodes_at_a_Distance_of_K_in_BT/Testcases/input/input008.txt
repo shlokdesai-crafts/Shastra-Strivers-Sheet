@@ -1,0 +1,3 @@
+84 12 null null 85 59 null null 33 24 null null 42 95
+59
+5

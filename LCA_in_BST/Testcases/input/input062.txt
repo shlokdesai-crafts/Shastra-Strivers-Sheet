@@ -1,0 +1,2 @@
+-49 -515 472 -870 -309 116 616 -928 -734 -447 -212 53 157 531 870 -982 -898 -740 -731 -449 -350 -238 -89 -25 60 138 375 494 549 815 907 null null null -895 null null null -599 null null null -313 null null null -81 null null null 67 null null null 467 null null null 577 null null null 984
+-89 577

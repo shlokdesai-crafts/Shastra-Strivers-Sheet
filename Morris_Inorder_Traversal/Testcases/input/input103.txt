@@ -1,0 +1,1 @@
+-10 -417 -253 -205 205 189 27 -2 212 -496 210 -237 153 -464 185 null null null null null null null 430 null null null null null null null -238

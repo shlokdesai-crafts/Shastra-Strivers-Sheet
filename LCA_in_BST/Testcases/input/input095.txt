@@ -1,0 +1,2 @@
+-60 -478 479 -619 -324 103 746 -859 -528 -398 -192 54 335 534 839 -866 -811 -578 -482 -474 -345 -317 -139 25 58 217 338 486 593 821 908 null null null -686 null null null -480 null null null -327 null -210 null -73 null null null 66 null null null 343 null null null 601 null 823 null 988
+58 908

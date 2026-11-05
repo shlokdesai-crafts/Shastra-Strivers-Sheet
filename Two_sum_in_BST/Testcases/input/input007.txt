@@ -1,0 +1,2 @@
+-17 -337 220 -427 -205 86 411 -449 -378 -273 -63 35 129 339 450 -483 -440 -405 -372 -287 -255 -178 -50 24 55 103 141 313 393 419 489 -491 -461 -442 -438 -424 -397 -374 -364 -298 -274 -259 -233 -182 -81 -60 -43 8 31 54 57 97 111 133 167 299 322 369 408 412 420 458 494 null null null null null null null -432 null null null -394 null null null -354 null null null null null null null -210 null null null -78 null null null -25 null null null null null null null 60 null null null 112 null null null 193 null null null 335 null null null 410 null null null 432 null null null 498
+7

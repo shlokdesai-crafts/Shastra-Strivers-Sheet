@@ -1,0 +1,2 @@
+95 -198 645 -688 -26 431 791 -885 -311 -172 30 240 526 709 834 -916 -759 -557 -279 -179 -109 -9 46 194 383 472 570 708 710 825 987 null null null -715 null -401 null -255 null null null -83 null 9 null 52 null null null 420 null 491 null 602 null null null 773 null 833 null 995
+46 95

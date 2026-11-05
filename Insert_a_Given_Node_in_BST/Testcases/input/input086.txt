@@ -1,0 +1,2 @@
+141 -421 579 -666 -278 254 820 -840 -561 -382 -25 145 277 643 956 -907 -778 -644 -521 -412 -291 -192 -17 142 232 273 292 614 700 948 968 null null null null null null null -495 null null null null null null null 56 null null null null null null null 412 null null null null null null null 977
+-849

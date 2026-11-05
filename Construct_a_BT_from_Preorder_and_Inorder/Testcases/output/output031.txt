@@ -1,0 +1,1 @@
+1 -654 639 -840 -414 374 834 -937 -711 -582 -188 242 514 678 913 -981 -875 -739 -668 -583 -578 -249 -139 148 244 384 515 652 692 902 941 null null null null null null null null null null null null null null null -112 null null null null null null null 635 null null null null null null null 993

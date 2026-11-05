@@ -1,0 +1,2 @@
+83 -427 543 -788 -301 345 675 -860 -552 -341 -146 189 440 605 958 -898 -858 -744 -501 -362 -308 -223 3 114 190 431 476 553 625 693 967 null null null -827 null null null -498 null null null -307 null -174 null 55 null null null 260 null null null 521 null null null 633 null 765 null 1000
+31

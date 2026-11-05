@@ -1,0 +1,1 @@
+318 -438 584 -832 -131 430 828 -953 -643 -310 64 335 522 781 898 -986 -894 -763 -612 -437 -235 -43 101 null 405 519 531 719 797 848 960 null null null -880 null null null -600 null null null -150 null null null 271 null 419 null null null 547 null null null 815 null null null 971

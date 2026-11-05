@@ -1,0 +1,2 @@
+-329 -808 17 -974 -692 -47 899 null null null null null null null 970
+-808 -692

@@ -1,0 +1,2 @@
+98 -116 260 -306 -29 132 414 -341 -212 -41 9 125 138 342 430 null null null null null null null 75 null null null 234 null null null 441
+9999

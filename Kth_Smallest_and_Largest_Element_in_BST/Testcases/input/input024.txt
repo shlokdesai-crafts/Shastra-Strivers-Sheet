@@ -1,0 +1,2 @@
+26 -769 512 -965 -447 198 769 -979 -880 -630 -127 75 265 596 837 -988 -967 -963 -818 -717 -617 -434 -111 67 110 229 461 562 648 834 894 null null null null null null null null null null null null null null null -10 null null null null null null null 491 null null null null null null null 968
+19

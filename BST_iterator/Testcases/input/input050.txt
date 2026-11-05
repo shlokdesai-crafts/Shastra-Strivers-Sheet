@@ -1,0 +1,1 @@
+31 -285 197 -404 -161 113 387 -464 -371 -212 -122 62 133 306 435 -487 -461 -401 -331 -257 -209 -123 -102 49 98 128 144 230 316 432 456 null null null null null null null -318 null null null -208 null null null -75 null null null 104 null null null 177 null null null 354 null null null 481

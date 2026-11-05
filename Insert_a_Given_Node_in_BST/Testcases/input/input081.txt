@@ -1,0 +1,2 @@
+-236 -481 310 -808 -391 57 666 -965 -750 -430 -355 -57 250 524 886 -974 -883 -800 -701 -452 -420 -372 -310 -76 35 73 273 391 627 709 921 null null null null null null null null null null null null null null null -296 null null null null null null null 298 null null null null null null null 989
+346

@@ -1,0 +1,2 @@
+0 79 269 null null 230 -412 -486 null 312 57 -219 -76 null null 174 null null -445 161 null -57 -234 -195 null -158 null null null -128 null null -362 null -36 null null null null -71
+57 -195

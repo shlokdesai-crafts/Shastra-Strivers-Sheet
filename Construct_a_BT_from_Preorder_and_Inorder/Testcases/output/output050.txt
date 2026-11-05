@@ -1,0 +1,1 @@
+-12 -620 414 -729 -216 155 752 -925 -696 -477 -98 103 374 499 921 -943 -802 -715 -691 -527 -306 -173 -56 41 145 162 375 420 628 756 965 null null null -783 null -709 null -683 null null null -229 null -106 null -22 null null null 149 null 186 null 376 null null null 637 null 884 null 992

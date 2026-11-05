@@ -1,0 +1,2 @@
+-169 -280 266 -381 -251 199 295 -493 -338 -271 -211 159 211 278 463 null null null -291 null null null -183 null null null 255 null null null 471
+9999

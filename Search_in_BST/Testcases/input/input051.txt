@@ -1,0 +1,2 @@
+27 -218 249 -373 -121 89 362 -430 -305 -148 -71 43 163 332 409 -467 -425 -336 -279 -193 -144 -102 -5 35 59 120 193 276 337 377 425 -482 -454 -427 -423 -350 -327 -295 -237 -214 -179 -147 -141 -103 -87 -8 3 34 38 54 70 105 127 177 194 257 322 335 353 371 398 413 451 null null null -431 null null null -387 null null null -318 null null null -233 null null null -152 null null null -133 null null null -73 null null null 19 null null null 41 null null null 78 null null null 131 null null null 195 null null null 330 null null null 356 null null null 408 null null null 492
+-423

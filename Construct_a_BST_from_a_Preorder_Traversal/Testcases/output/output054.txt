@@ -1,0 +1,1 @@
+71 -480 612 -804 -280 238 774 -866 -593 -363 -170 149 269 636 877 -881 -835 -640 -585 -474 -323 -183 -81 96 219 252 402 613 697 875 882 null null null null null null null null null null null null null null null -35 null null null null null null null 444 null null null null null null null 933

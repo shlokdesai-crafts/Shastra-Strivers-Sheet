@@ -1,0 +1,1 @@
+22 72 203 -331 -248 95 365 -400 -317 -258 -137 53 143 275 410 -415 -387 -318 -315 -288 -255 -142 -32 37 80 130 145 206 348 402 433 null null null null null null null -296 null null null null null null null 1 null null null null null null null 201 null null null null null null null 452

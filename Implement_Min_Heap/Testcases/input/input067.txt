@@ -1,0 +1,21 @@
+20
+insert -282
+insert 128
+heapSize
+extractMin
+extractMin
+insert 373
+getMin
+heapSize
+getMin
+getMin
+extractMin
+insert -267
+getMin
+heapSize
+insert 289
+getMin
+insert -77
+insert 387
+getMin
+getMin

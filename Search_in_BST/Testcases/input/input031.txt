@@ -1,0 +1,2 @@
+77 -276 350 -443 -98 122 454 -476 -367 -168 -27 85 171 381 474 -490 -475 -385 -346 -275 -128 -90 -22 83 102 144 217 356 436 461 486 null null null -465 null null null -305 null null null -112 null null null -13 null null null 114 null null null 223 null null null 444 null null null 491
+436

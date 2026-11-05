@@ -1,0 +1,48 @@
+47
+insert -456
+getMin
+extractMin
+insert -322
+insert 474
+insert -315
+extractMin
+extractMin
+heapSize
+heapSize
+insert 196
+heapSize
+getMin
+getMin
+extractMin
+heapSize
+getMin
+insert 120
+insert 485
+getMin
+heapSize
+insert 209
+heapSize
+insert 259
+getMin
+heapSize
+heapSize
+getMin
+getMin
+insert -298
+getMin
+extractMin
+extractMin
+extractMin
+insert -127
+insert 244
+heapSize
+getMin
+insert -357
+insert 182
+heapSize
+insert 206
+insert 309
+extractMin
+insert -126
+extractMin
+insert 83

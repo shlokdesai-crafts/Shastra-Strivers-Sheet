@@ -1,0 +1,1 @@
+0 -434 588 -727 -302 533 738 -863 -600 -364 -145 144 562 594 881 null null null null null null null -12 null null null null null null null 905

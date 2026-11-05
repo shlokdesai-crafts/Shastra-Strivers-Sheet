@@ -1,0 +1,2 @@
+-18 -409 635 -708 -260 177 848 -781 -621 -339 -88 128 333 732 948 -956 -765 -692 -557 -363 -328 -240 -67 9 133 221 445 686 755 905 987 null null null -715 null -683 null -484 null null null -294 null -233 null -33 null null null 169 null 317 null 535 null 699 null 830 null 947 null 994
+43

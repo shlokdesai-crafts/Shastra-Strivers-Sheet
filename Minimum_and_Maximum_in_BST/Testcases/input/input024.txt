@@ -1,0 +1,1 @@
+102 -521 650 -768 -132 348 866 -951 -722 -421 78 206 406 703 901 -994 -893 -757 -674 -471 -394 52 89 159 319 389 511 660 758 893 921 null null null null null null null -629 null null null -378 null null null 95 null null null null null null null 575 null null null 808 null null null 997

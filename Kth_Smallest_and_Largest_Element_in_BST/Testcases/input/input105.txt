@@ -1,0 +1,2 @@
+-110 -467 586 -823 -303 322 748 -942 -632 -396 -294 112 363 589 816 -992 -887 -718 -566 -455 -381 -298 -266 22 186 337 377 587 655 793 843 null null null null null null null -563 null null null null null null null -134 null null null null null null null 395 null null null 689 null null null 896
+35

@@ -1,0 +1,2 @@
+-15 -609 362 -831 -607 252 380 null null null -300 null null null 573
+-419

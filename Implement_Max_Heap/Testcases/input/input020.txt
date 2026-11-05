@@ -1,0 +1,45 @@
+44
+insert 196
+insert 479
+getMax
+insert 114
+extractMax
+insert -211
+extractMax
+insert 39
+insert 10
+heapSize
+heapSize
+insert 455
+insert -323
+insert 216
+heapSize
+getMax
+heapSize
+insert -486
+insert -384
+heapSize
+extractMax
+extractMax
+insert 68
+heapSize
+insert 377
+heapSize
+getMax
+getMax
+insert 362
+extractMax
+insert 438
+extractMax
+heapSize
+getMax
+heapSize
+extractMax
+heapSize
+getMax
+extractMax
+insert 388
+extractMax
+getMax
+heapSize
+insert -376

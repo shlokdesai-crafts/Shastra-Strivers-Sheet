@@ -1,0 +1,1 @@
+0 98 442 367 3 -240 -271 152 null null -206 null -248 -466 -76 null null null null -73 -421 -156 null -351 208 null null 69

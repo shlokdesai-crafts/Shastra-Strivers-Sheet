@@ -1,0 +1,1 @@
+22 -205 281 -367 -107 95 396 -448 -344 -142 -33 39 148 315 456 -495 -441 -363 -243 -204 -131 -101 -30 30 56 124 206 285 341 417 480 null null null -411 null -358 null -239 null -174 null -119 null -63 null 4 null null null 79 null 144 null 270 null 304 null 387 null 426 null 482

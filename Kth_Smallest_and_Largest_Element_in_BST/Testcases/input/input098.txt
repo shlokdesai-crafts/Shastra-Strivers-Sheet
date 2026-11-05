@@ -1,0 +1,2 @@
+-254 -638 420 -897 -471 79 638 -967 -788 -619 -432 -48 224 489 701 -982 -943 -805 -768 -624 -602 -452 -326 -225 49 209 330 435 571 679 725 null null null null null null null -666 null null null null null null null -296 null null null null null null null 333 null null null 591 null null null 733
+25

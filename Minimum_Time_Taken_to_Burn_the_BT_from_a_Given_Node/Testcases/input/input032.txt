@@ -1,0 +1,2 @@
+0 134 null 79 428 132 -238 -315 364 26 441 null null -321 13 null null null null -152 -281 null null null 62 435 null -184 386 null null 170 -136 null 128 null null -79 null null -110 null 376 null null 427
+0

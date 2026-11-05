@@ -1,0 +1,2 @@
+0 -491 -364 451 422 null -333 -460 -183 -374 null -210 44 null null 78 null 474 null null null null -291 74 null null -362 null 245 null null null 6 -412 -214 -328
+245 -362

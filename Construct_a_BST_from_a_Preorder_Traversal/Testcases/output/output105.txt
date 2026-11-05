@@ -1,0 +1,1 @@
+110 -328 693 -973 -121 582 823 -979 -766 -144 -105 536 593 817 935 null null null null null null null -85 null null null null null null null 954

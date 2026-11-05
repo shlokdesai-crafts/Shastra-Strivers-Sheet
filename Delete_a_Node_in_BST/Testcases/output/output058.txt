@@ -1,0 +1,1 @@
+117 -410 538 -739 -108 324 689 -951 -634 -318 -39 195 373 562 852 -964 -887 -731 -566 -350 -302 -65 63 191 260 341 395 547 605 708 872 null null null -849 null -721 null -560 null null null -165 null -52 null 108 null null null 282 null 359 null 501 null 552 null 625 null 839 null 970

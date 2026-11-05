@@ -1,0 +1,2 @@
+47 -525 143 -600 -196 142 754 null null null null null null null 990
+3

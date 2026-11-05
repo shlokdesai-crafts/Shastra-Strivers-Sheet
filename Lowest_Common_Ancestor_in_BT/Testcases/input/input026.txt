@@ -1,0 +1,2 @@
+0 -240 277 -391 -297 -213 -26 81 null -211 -439 null null -398 null 78 null null null -41 25 null 173 null -227 434 null 500 -496 null null null null -432 -400 null 148 -37
+-211 -297

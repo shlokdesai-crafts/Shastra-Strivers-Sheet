@@ -1,0 +1,2 @@
+110 -348 273 -381 -50 225 363 -408 -375 -241 -21 185 242 326 411 -444 -391 -379 -356 -271 -214 -40 3 131 200 232 244 285 333 408 422 null null null null null null null -353 null null null -188 null null null 22 null null null 204 null null null 252 null null null 343 null null null 465
+285

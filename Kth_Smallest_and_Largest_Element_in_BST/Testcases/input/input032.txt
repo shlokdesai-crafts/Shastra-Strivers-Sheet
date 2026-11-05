@@ -1,0 +1,2 @@
+11 -569 342 -708 -224 165 650 -799 -679 -528 -54 105 222 623 876 -917 -794 -690 -618 -535 -447 -58 -30 23 136 220 230 481 641 665 926 null null null -791 null null null -585 null null null -319 null null null 1 null null null 138 null null null 252 null null null 643 null 787 null 975
+11

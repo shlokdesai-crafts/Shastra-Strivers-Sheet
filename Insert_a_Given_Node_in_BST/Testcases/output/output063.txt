@@ -1,0 +1,1 @@
+18 -750 526 -906 -275 362 746 -956 -877 -681 -153 130 450 546 798 -976 -951 -896 -858 -703 -634 -266 -147 66 191 365 455 535 619 788 818 null null null null null null null -775 null null null -422 null null null -14 null null null 325 null null null 474 null null null 659 null null null 948 null null null null null null null null null 521

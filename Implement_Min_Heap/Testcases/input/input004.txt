@@ -1,0 +1,11 @@
+10
+insert 374
+getMin
+insert -270
+insert -267
+extractMin
+extractMin
+extractMin
+insert -457
+getMin
+insert 477

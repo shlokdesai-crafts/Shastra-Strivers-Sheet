@@ -1,0 +1,2 @@
+92 -646 513 -848 -312 165 814 -939 -826 -558 13 121 240 618 898 -965 -922 -838 -771 -633 -486 -209 14 110 139 189 247 613 691 837 901 null null null -868 null -836 null -652 null null null -390 null -73 null 76 null null null 163 null 239 null 285 null null null 735 null 841 null 915
+-558

@@ -1,0 +1,2 @@
+60 -203 291 -360 -19 134 421 -416 -309 -154 19 127 184 321 437 null null null -260 null -121 null 49 null null null 207 null 384 null 452
+321

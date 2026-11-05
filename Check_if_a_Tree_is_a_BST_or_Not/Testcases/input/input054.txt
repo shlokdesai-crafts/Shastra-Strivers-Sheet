@@ -1,0 +1,1 @@
+287 337 350 -365 125 306 427 -439 -306 119 199 296 313 372 462 null null null -262 null null null 277 null null null 322 null null null 479

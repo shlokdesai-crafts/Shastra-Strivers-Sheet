@@ -1,0 +1,1 @@
+189 -413 583 -718 -60 410 747 -846 -678 -333 49 235 459 696 872 -875 -728 -696 -541 -373 -214 9 50 223 251 425 467 663 703 808 922 null null null null null null null -515 null null null -147 null null null 101 null null null 282 null null null 521 null null null 708 null null null 977

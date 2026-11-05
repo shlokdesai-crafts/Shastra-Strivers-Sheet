@@ -1,0 +1,2 @@
+55 -552 571 -595 -229 349 811 -955 -580 -513 -54 295 440 773 845 null null null null null null null -9 null null null null null null null 913
+811 -229

@@ -1,0 +1,2 @@
+52 -300 220 -425 46 104 286 null null null null null null null 328
+-97

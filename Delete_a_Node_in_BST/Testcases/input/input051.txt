@@ -1,0 +1,2 @@
+8 -345 791 -727 -114 493 905 -833 -653 -251 -48 203 668 881 964 -984 -800 -721 -572 -322 -236 -75 -25 9 255 590 680 836 890 917 975 null null null -780 null -693 null -479 null null null -125 null -61 null -10 null null null 290 null 650 null 785 null null null 904 null 928 null 994
+904

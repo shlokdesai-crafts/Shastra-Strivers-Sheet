@@ -1,0 +1,1 @@
+16 -220 148 -429 -101 76 316 -446 -353 -165 -45 30 106 209 449 -487 -443 -409 -285 -178 -128 -92 -24 24 57 91 129 151 225 317 454 null null null -436 null -375 null -233 null -170 null -108 null -65 null 13 null null null 75 null 96 null 131 null 160 null 235 null 346 null 492

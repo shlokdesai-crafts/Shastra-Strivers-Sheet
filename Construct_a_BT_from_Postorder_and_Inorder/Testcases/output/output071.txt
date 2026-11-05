@@ -1,0 +1,1 @@
+55 -752 383 -870 -370 240 794 -901 -796 -547 -218 124 265 613 891 -994 -883 -801 -773 -636 -481 -319 -186 84 239 250 325 501 750 864 936 null null null null null null null -763 null null null null null null null 49 null null null null null null null 377 null null null 758 null null null 975

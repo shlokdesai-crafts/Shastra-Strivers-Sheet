@@ -1,0 +1,1 @@
+247 -105 155 63 -98 411 138 181 -76 303 81 379 48 35 -96 null null null null null null null null null null null null null null null -45

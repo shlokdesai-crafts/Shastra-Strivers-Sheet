@@ -1,0 +1,2 @@
+69 -170 271 -333 -36 172 427 -403 -236 -147 13 99 210 355 470 -484 -389 -292 -192 -160 -80 -23 56 74 103 182 232 295 382 441 476 null null null -350 null -278 null -177 null -151 null -66 null -1 null 67 null null null 145 null 191 null 266 null 312 null 398 null 455 null 482
+69

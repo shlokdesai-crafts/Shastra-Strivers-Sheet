@@ -1,0 +1,2 @@
+63 -419 425 -844 -244 176 706 -904 -636 -363 -30 88 297 592 851 -928 -900 -788 -492 -390 -290 -237 17 78 112 273 324 464 672 764 879 null null null -897 null -639 null -490 null -381 null -271 null -199 null 56 null null null 119 null 276 null 416 null 511 null 704 null 798 null 883
+582

@@ -1,0 +1,1 @@
+123 173 380 -400 15 240 460 -469 -375 -28 46 204 245 395 472 null null null -123 null null null 54 null null null 285 null null null 491

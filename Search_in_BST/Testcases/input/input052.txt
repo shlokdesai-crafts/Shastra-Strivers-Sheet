@@ -1,0 +1,2 @@
+0 -274 201 -395 -127 104 370 -465 -327 -227 -74 34 166 323 466 -477 -427 -344 -303 -250 -201 -118 -37 27 57 132 176 269 336 404 475 -499 -474 -442 -410 -377 -338 -315 -290 -273 -248 -221 -199 -125 -111 -47 -25 2 29 37 67 127 133 168 180 237 296 333 355 386 435 471 494 null null null -473 null null null -396 null null null -335 null null null -289 null null null -235 null null null -144 null null null -98 null null null -7 null null null 32 null null null 82 null null null 148 null null null 193 null null null 298 null null null 359 null null null 447 null null null 498
+9999

@@ -1,0 +1,1 @@
+116 -44 375 -318 27 273 403 -373 -299 23 48 204 302 389 421 null null null -128 null null null 102 null null null 339 null null null 457

@@ -1,0 +1,1 @@
+-433 -460 -404 481 366 -161 -139 427 -71 67 478 474 52 -230 377 224 -208 153 -316 219 437 -327 403 333 -361 471 -182 117 -494 201 -379 null null null 92 null null null 270 null null null -472 null null null -441 null null null -425 null null null 446 null null null 33 null null null 352

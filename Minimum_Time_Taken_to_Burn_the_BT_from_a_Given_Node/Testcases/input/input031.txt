@@ -1,0 +1,2 @@
+0 -499 -119 248 null -80 43 -71 -257 null 464 176 61 -118 -222 -401 -64 null 246 428 -156 null null null null null -283 null 231 null null null null null null null null null null -409 -190
+-499

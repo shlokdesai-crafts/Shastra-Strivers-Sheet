@@ -1,0 +1,1 @@
+266 -454 708 -849 -255 579 823 -900 -639 -379 -12 479 634 765 938 -924 -860 -765 -495 -438 -369 -173 25 301 548 631 664 724 783 854 940 null null null null null null null -462 null null null -258 null null null 223 null null null null null null null 670 null null null 793 null null null 995

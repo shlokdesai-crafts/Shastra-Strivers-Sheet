@@ -1,0 +1,2 @@
+31 -575 302 -797 -200 127 459 -937 -731 -239 -122 111 155 393 554 null null null -727 null null null -109 null null null 197 null 427 null 669
+427 -239

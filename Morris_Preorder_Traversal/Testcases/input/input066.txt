@@ -1,0 +1,1 @@
+376 67 301 272 -132 -89 -38 366 12 -37 -421 14 83 391 -12 35 389 -447 -368 345 222 166 -379 -272 -74 -214 365 75 220 -165 -214 null null null null null null null 124 null null null null null null null -218 null null null null null null null -360 null null null null null null null 470

@@ -1,0 +1,2 @@
+-269 -584 85 -728 -475 -134 701 -860 -658 -503 -315 -222 -65 487 844 -977 -753 -705 -597 -536 -502 -422 -309 -263 -202 -121 34 258 634 770 885 null null null null null null null null null null null null null null null -286 null null null null null null null null null null null null null null null 906
+885 -134

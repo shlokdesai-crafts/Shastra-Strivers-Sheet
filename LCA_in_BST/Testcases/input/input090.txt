@@ -1,0 +1,2 @@
+33 -383 557 -776 -175 385 799 -866 -557 -210 -85 167 494 652 869 -980 -858 -764 -470 -351 -180 -155 -75 118 169 443 526 592 711 854 913 null null null -842 null -650 null -405 null null null -178 null -128 null -73 null null null 220 null 492 null 556 null null null 781 null 863 null 916
+-155 711

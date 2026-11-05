@@ -1,0 +1,2 @@
+245 -810 438 -896 -701 431 572 null null null 84 null null null 965
+-896 -701

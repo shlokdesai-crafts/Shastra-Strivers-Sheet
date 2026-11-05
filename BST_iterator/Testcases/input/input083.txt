@@ -1,0 +1,1 @@
+31 -176 154 -450 -36 62 243 -470 -367 -164 15 41 109 222 291 -491 -458 -420 -364 -166 -116 -34 17 34 59 105 130 217 223 267 392 null null null null null null null -347 null null null null null null null 18 null null null null null null null 134 null null null null null null null 444

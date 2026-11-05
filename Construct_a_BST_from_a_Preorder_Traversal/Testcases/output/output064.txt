@@ -1,0 +1,1 @@
+75 -478 591 -738 -180 378 780 -875 -664 -379 -96 301 533 728 812 -916 -836 -671 -618 -472 -284 -133 32 81 372 395 544 718 738 802 860 null null null null null null null -551 null null null null null null null 55 null null null null null null null 585 null null null null null null null 968

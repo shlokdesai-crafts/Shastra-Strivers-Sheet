@@ -1,0 +1,2 @@
+0 221 45 149 325 421 -344 147 null null null 212 null 301 -151 null null null -92 null null -91 null null null null 257
+149 0

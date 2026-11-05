@@ -1,0 +1,2 @@
+88 -616 493 -822 -234 256 884 -844 -717 -356 -124 211 401 515 944 null null null -623 null null null -109 null null null 413 null 649 null 975
+-356 -616

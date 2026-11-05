@@ -1,0 +1,2 @@
+241 -608 677 -801 -61 381 891 -917 -723 -530 212 290 571 788 944 -999 -848 -773 -694 -544 -306 36 217 245 362 521 589 776 825 922 981 null null null -833 null null null -690 null null null -301 null null null 225 null null null 367 null null null 624 null null null 831 null 942 null 993
+-694 -301

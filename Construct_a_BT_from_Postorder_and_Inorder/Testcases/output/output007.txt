@@ -1,0 +1,1 @@
+191 -402 500 -755 -56 242 785 -879 -534 -314 69 220 252 605 881 -964 -775 -613 -498 -400 -282 -5 84 209 239 244 435 598 642 880 900 null null null null null null null -474 null null null -235 null null null 102 null null null null null null null 464 null null null 781 null null null 948

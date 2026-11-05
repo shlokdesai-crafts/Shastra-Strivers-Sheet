@@ -1,0 +1,1 @@
+80 -455 458 -625 -330 335 797 -948 -487 -412 -239 198 371 718 914 -965 -792 -586 -482 -443 -356 -282 -194 123 216 342 375 490 770 821 940 null null null null null null null null null null null null null null null -178 null null null null null null null 404 null null null null null null null 947

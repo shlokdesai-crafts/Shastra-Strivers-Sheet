@@ -1,0 +1,1 @@
+64 -534 531 -851 -346 453 758 -991 -636 -499 -244 144 497 659 783 -1000 -962 -831 -633 -516 -485 -268 -87 122 333 483 511 552 710 759 804 null null null null null null null -563 null null null -369 null null null -61 null null null 438 null null null 526 null null null 743 null null null 970

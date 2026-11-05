@@ -1,0 +1,2 @@
+34 -569 516 -787 -334 140 714 -888 -734 -457 -214 102 255 658 728 -982 -853 -749 -662 -481 -421 -248 -123 81 133 216 312 633 694 718 968 null null null null null null null -620 null null null null null null null -20 null null null null null null null 416 null null null null null null null 988
+-662 -421

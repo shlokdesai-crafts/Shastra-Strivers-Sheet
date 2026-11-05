@@ -1,0 +1,1 @@
+73 -433 470 -644 -272 291 688 -884 -580 -318 -141 118 314 592 829 -986 -883 -613 -501 -338 -302 -248 -7 111 232 307 378 null 664 719 863 null null null -789 null null null -449 null null null -274 null -162 null 28 null null null 275 null null null 453 null 672 null 753 null 905

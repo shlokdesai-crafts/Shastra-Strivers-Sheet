@@ -1,0 +1,2 @@
+206 -520 724 -702 -267 564 931 -880 -639 -406 -131 335 674 807 944 -976 -865 -642 -616 -519 -404 -205 -73 227 375 569 695 800 857 937 954 null null null null null null null -543 null null null null null null null 139 null null null null null null null 703 null null null 920 null null null 997
+-519

@@ -1,0 +1,2 @@
+-17 -401 509 -670 -88 217 603 -886 -474 -380 -59 93 364 537 794 -989 -808 -626 -467 -391 -184 -84 -43 56 143 331 384 535 578 643 804 null null null -708 null null null -436 null null null -181 null -81 null -21 null null null 157 null null null 409 null null null 579 null 674 null 830
+509

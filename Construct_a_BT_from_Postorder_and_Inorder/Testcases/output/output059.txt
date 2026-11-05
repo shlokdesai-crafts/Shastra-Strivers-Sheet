@@ -1,0 +1,1 @@
+19 -578 545 -798 -330 399 831 -969 -679 -519 -200 61 516 624 913 -980 -884 -753 -618 -556 -414 -258 -144 23 142 496 521 547 702 857 919 null null null -847 null null null -597 null null null -402 null null null -90 null null null 205 null null null 539 null null null 796 null 870 null 966

@@ -1,0 +1,2 @@
+0 311 413 -136 392 -373 -147 null null -394 null 53 null null null null -17
+311
